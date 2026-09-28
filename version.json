@@ -1,0 +1,13 @@
+{
+  "version": "2.0.1",
+  "title": "อัปเดตเวอร์ชัน 2.0.1",
+  "changelog": "• ปรับปรุงระบบ ย้ายโฟลเดอร์เกม (Game Directory)",
+  "download_url": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/BiaocraftLauncher-win-x64.exe",
+  "download_urls": {
+    "win-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/BiaocraftLauncher-win-x64.exe",
+    "linux-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/BiaocraftLauncher-linux-x64",
+    "osx-arm64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/BiaocraftLauncher-osx-arm64",
+    "osx-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/BiaocraftLauncher-osx-x64"
+  },
+  "mandatory": true
+}
