@@ -1,7 +1,7 @@
 {
-  "version": "2.0.3",
-  "title": "อัปเดต NYX เวอร์ชัน 2.0.3",
-  "changelog": "• ปรับปรุงระบบ Whitelist ให้เสถียร์ขึ้น",
+  "version": "2.0.4",
+  "title": "อัปเดต NYX เวอร์ชัน 2.0.4",
+  "changelog": "• ปรับปรุงการแสดงผลโลโก้ Instance",
   "download_url": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/NYXLauncher-win-x64.exe",
   "download_urls": {
     "win-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/NYXLauncher-win-x64.exe",
