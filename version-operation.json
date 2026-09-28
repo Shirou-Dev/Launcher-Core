@@ -1,0 +1,13 @@
+{
+  "version": "2.0.0",
+  "title": "อัปเดต Operation เวอร์ชัน 2.0.0",
+  "changelog": "• เริ่มต้นระบบ Operation Launcher ขุมพลัง .NET 8 C#",
+  "download_url": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/OperationLauncher-win-x64.exe",
+  "download_urls": {
+    "win-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/OperationLauncher-win-x64.exe",
+    "linux-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/OperationLauncher-linux-x64",
+    "osx-arm64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/OperationLauncher-osx-arm64",
+    "osx-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/OperationLauncher-osx-x64"
+  },
+  "mandatory": true
+}
