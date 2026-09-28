@@ -1,0 +1,13 @@
+{
+  "version": "2.0.1",
+  "title": "อัปเดต NYX เวอร์ชัน 2.0.1",
+  "changelog": "• รองรับ NeoForge เต็มรูปเเบบ & เเก้ไขบัค",
+  "download_url": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/NYXLauncher-win-x64.exe",
+  "download_urls": {
+    "win-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/NYXLauncher-win-x64.exe",
+    "linux-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/NYXLauncher-linux-x64",
+    "osx-arm64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/NYXLauncher-osx-arm64",
+    "osx-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/NYXLauncher-osx-x64"
+  },
+  "mandatory": true
+}
