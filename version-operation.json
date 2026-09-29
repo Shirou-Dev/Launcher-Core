@@ -1,7 +1,7 @@
 {
-  "version": "2.0.5",
-  "title": "อัปเดต Operation เวอร์ชัน 2.0.5",
-  "changelog": "• ปรับปรุงการแสดงผลโลโก้ Instance #2",
+  "version": "2.0.6",
+  "title": "อัปเดต Operation เวอร์ชัน 2.0.6",
+  "changelog": "• ระบบอัปเดต Mods อัตโนมัติแบบ Real-time โดยไม่ต้องออกโปรแกรมใหม่",
   "download_url": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/OperationLauncher-win-x64.exe",
   "download_urls": {
     "win-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/OperationLauncher-win-x64.exe",
@@ -10,5 +10,5 @@
     "osx-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/OperationLauncher-osx-x64"
   },
   "mandatory": true,
-  "sha256": "e82a8e4cde271bcdd6b99149440761a0b2167eafdb1eb1742061066f4f98c883"
+  "sha256": "e0e43a4ef250dcb84914f742031b2e2cef0eb390b1922c1bcf4f75c0b5f3ad36"
 }

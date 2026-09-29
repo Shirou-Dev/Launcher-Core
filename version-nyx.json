@@ -1,7 +1,7 @@
 {
-  "version": "2.0.5",
-  "title": "อัปเดต NYX เวอร์ชัน 2.0.5",
-  "changelog": "• ปรับปรุงการแสดงผลโลโก้ Instance #2",
+  "version": "2.0.6",
+  "title": "อัปเดต NYX เวอร์ชัน 2.0.6",
+  "changelog": "• ระบบอัปเดต Mods อัตโนมัติแบบ Real-time โดยไม่ต้องออกโปรแกรมใหม่",
   "download_url": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/NYXLauncher-win-x64.exe",
   "download_urls": {
     "win-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/NYXLauncher-win-x64.exe",
@@ -10,5 +10,5 @@
     "osx-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/NYXLauncher-osx-x64"
   },
   "mandatory": true,
-  "sha256": "6595917d00b336478633901cd548bd8a55a5ddbc3e0f60dd7922d513d3f83b5c"
+  "sha256": "2b7aafae149f2cc5879c9219c82e75048b7e2154b97ae7baf5d29b3ab5eafd2f"
 }
