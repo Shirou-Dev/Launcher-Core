@@ -1,7 +1,7 @@
 {
-  "version": "2.0.7",
-  "title": "อัปเดต Biaocraft เวอร์ชัน 2.0.7",
-  "changelog": "• เพิ่มหน้า News & Changelog Launcher",
+  "version": "2.0.8",
+  "title": "อัปเดต Biaocraft เวอร์ชัน 2.0.8",
+  "changelog": "• เพิ่มระบบลบม็อดที่ไม่ได้ใช้งานอัตโนมัติ",
   "download_url": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/BiaocraftLauncher-win-x64.exe",
   "download_urls": {
     "win-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/BiaocraftLauncher-win-x64.exe",
@@ -10,5 +10,5 @@
     "osx-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/BiaocraftLauncher-osx-x64"
   },
   "mandatory": true,
-  "sha256": "5d232df92b5f22bba7cb33d7342bac406e2418cd2f3f854568c02a926d0cba07"
+  "sha256": "69df5860b57ea88e45dc3c6b30919f2b649b51ef2cd6ca5b96caf25c26e0cf38"
 }
