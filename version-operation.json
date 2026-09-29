@@ -1,7 +1,7 @@
 {
-  "version": "2.0.6",
-  "title": "อัปเดต Operation เวอร์ชัน 2.0.6",
-  "changelog": "• ระบบอัปเดต Mods อัตโนมัติแบบ Real-time โดยไม่ต้องออกโปรแกรมใหม่",
+  "version": "2.0.7",
+  "title": "อัปเดต Operation เวอร์ชัน 2.0.7",
+  "changelog": "• เพิ่มหน้า News & Changelog Launcher",
   "download_url": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/OperationLauncher-win-x64.exe",
   "download_urls": {
     "win-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/OperationLauncher-win-x64.exe",
@@ -10,5 +10,5 @@
     "osx-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/OperationLauncher-osx-x64"
   },
   "mandatory": true,
-  "sha256": "e0e43a4ef250dcb84914f742031b2e2cef0eb390b1922c1bcf4f75c0b5f3ad36"
+  "sha256": "f5e2a89f9b90259ddbd5604c2b7f5d0b03b9eb7c3e3d1adac0e2f09394577c16"
 }

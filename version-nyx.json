@@ -1,7 +1,7 @@
 {
-  "version": "2.0.6",
-  "title": "อัปเดต NYX เวอร์ชัน 2.0.6",
-  "changelog": "• ระบบอัปเดต Mods อัตโนมัติแบบ Real-time โดยไม่ต้องออกโปรแกรมใหม่",
+  "version": "2.0.7",
+  "title": "อัปเดต NYX เวอร์ชัน 2.0.7",
+  "changelog": "• เพิ่มหน้า News & Changelog Launcher",
   "download_url": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/NYXLauncher-win-x64.exe",
   "download_urls": {
     "win-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/NYXLauncher-win-x64.exe",
@@ -10,5 +10,5 @@
     "osx-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/NYXLauncher-osx-x64"
   },
   "mandatory": true,
-  "sha256": "2b7aafae149f2cc5879c9219c82e75048b7e2154b97ae7baf5d29b3ab5eafd2f"
+  "sha256": "408c40238b1e17dfeea5395a312bc9c77d80c63b22661cba3ddcf62e9bd0ea9c"
 }
