@@ -1,7 +1,7 @@
 {
-  "version": "2.0.8",
-  "title": "อัปเดต Operation เวอร์ชัน 2.0.8",
-  "changelog": "• เพิ่มระบบลบม็อดที่ไม่ได้ใช้งานอัตโนมัติ",
+  "version": "2.0.9",
+  "title": "อัปเดต Operation เวอร์ชัน 2.0.9",
+  "changelog": "• เพิ่มแถบแสดงสถานะ ของ Distribution Server (มุมขวาล่าง)",
   "download_url": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/OperationLauncher-win-x64.exe",
   "download_urls": {
     "win-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/OperationLauncher-win-x64.exe",
@@ -10,5 +10,5 @@
     "osx-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/OperationLauncher-osx-x64"
   },
   "mandatory": true,
-  "sha256": "8c591ef97f5f6e1cdaf27d87882b89f7976ae521759eb95470c738d7af8ff90f"
+  "sha256": "5e0e5304cd99b39816ca3f7ea6d5d58ab0e8b58e8d430c73b7f65d47dfe0313e"
 }

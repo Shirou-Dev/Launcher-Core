@@ -1,7 +1,7 @@
 {
-  "version": "2.0.8",
-  "title": "อัปเดต Biaocraft เวอร์ชัน 2.0.8",
-  "changelog": "• เพิ่มระบบลบม็อดที่ไม่ได้ใช้งานอัตโนมัติ",
+  "version": "2.0.9",
+  "title": "อัปเดต Biaocraft เวอร์ชัน 2.0.9",
+  "changelog": "• เพิ่มแถบแสดงสถานะ ของ Distribution Server (มุมขวาล่าง)",
   "download_url": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/BiaocraftLauncher-win-x64.exe",
   "download_urls": {
     "win-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/BiaocraftLauncher-win-x64.exe",
@@ -10,5 +10,5 @@
     "osx-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/BiaocraftLauncher-osx-x64"
   },
   "mandatory": true,
-  "sha256": "69df5860b57ea88e45dc3c6b30919f2b649b51ef2cd6ca5b96caf25c26e0cf38"
+  "sha256": "093625a1b73d7bc0913ec94e59d73095d618b14799e7f28fae87cf03bda851fd"
 }

@@ -1,7 +1,7 @@
 {
-  "version": "2.0.8",
-  "title": "อัปเดต NYX เวอร์ชัน 2.0.8",
-  "changelog": "• เพิ่มระบบลบม็อดที่ไม่ได้ใช้งานอัตโนมัติ",
+  "version": "2.0.9",
+  "title": "อัปเดต NYX เวอร์ชัน 2.0.9",
+  "changelog": "• เพิ่มแถบแสดงสถานะ ของ Distribution Server (มุมขวาล่าง)",
   "download_url": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/NYXLauncher-win-x64.exe",
   "download_urls": {
     "win-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/NYXLauncher-win-x64.exe",
@@ -10,5 +10,5 @@
     "osx-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/NYXLauncher-osx-x64"
   },
   "mandatory": true,
-  "sha256": "b1906e3f209c817f44428f5f679e0caa4fab93a1587fa7bf35f48c7d1ab28f64"
+  "sha256": "43283ba4fbc691fec914b1ec2c6055c1b7bf5024a0db2c4c64b8e83016cc1384"
 }
