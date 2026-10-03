@@ -1,0 +1,14 @@
+{
+  "version": "2.1.1",
+  "title": "อัปเดต Axia เวอร์ชัน 2.1.1",
+  "changelog": "• ปรับปรุงระบบตรวจเช็คไฟล์ SHA-256",
+  "download_url": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/AxiaLauncher-win-x64.exe",
+  "download_urls": {
+    "win-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/AxiaLauncher-win-x64.exe",
+    "linux-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/AxiaLauncher-linux-x64",
+    "osx-arm64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/AxiaLauncher-osx-arm64",
+    "osx-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/AxiaLauncher-osx-x64"
+  },
+  "mandatory": true,
+  "sha256": "d84a03d87695e55245229ba9a0d4e6c457812657c5f6ccec50a060a125661271"
+}
