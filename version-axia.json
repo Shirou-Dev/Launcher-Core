@@ -1,7 +1,7 @@
 {
-  "version": "2.1.3",
-  "title": "อัปเดต Axia เวอร์ชัน 2.1.3",
-  "changelog": "• ปรับปรุงระบบลันเซอร์ #1",
+  "version": "2.1.5",
+  "title": "อัปเดต Axia เวอร์ชัน 2.1.5",
+  "changelog": "• ปรับปรุงระบบลันเซอร์ #2",
   "download_url": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/AxiaLauncher-win-x64.exe",
   "download_urls": {
     "win-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/AxiaLauncher-win-x64.exe",
@@ -10,5 +10,5 @@
     "osx-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/AxiaLauncher-osx-x64"
   },
   "mandatory": true,
-  "sha256": "f29038e65135680fc7d6136e23d8814b6430ec903087e42a28e4316ac65d0b82"
+  "sha256": "498f7442e1c27d6dac4229eb2835fe4b30174a222be21bff571f356202f6f1c5"
 }
