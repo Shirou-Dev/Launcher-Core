@@ -1,7 +1,7 @@
 {
-  "version": "2.0.9",
-  "title": "อัปเดต Operation เวอร์ชัน 2.0.9",
-  "changelog": "• เพิ่มแถบแสดงสถานะ ของ Distribution Server (มุมขวาล่าง)",
+  "version": "2.1.6",
+  "title": "อัปเดต Operation เวอร์ชัน 2.1.6",
+  "changelog": "• ระบบมาใหม่",
   "download_url": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/OperationLauncher-win-x64.exe",
   "download_urls": {
     "win-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/OperationLauncher-win-x64.exe",
@@ -10,5 +10,5 @@
     "osx-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/OperationLauncher-osx-x64"
   },
   "mandatory": true,
-  "sha256": "5e0e5304cd99b39816ca3f7ea6d5d58ab0e8b58e8d430c73b7f65d47dfe0313e"
+  "sha256": "379d4868bc4bf59ad0b6cf0bd755991442b64b110c6e91e73392c2eea60851c2"
 }
