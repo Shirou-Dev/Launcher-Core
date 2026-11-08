@@ -1,7 +1,7 @@
 {
-  "version": "2.0.9",
-  "title": "อัปเดต Biaocraft เวอร์ชัน 2.0.9",
-  "changelog": "• เพิ่มแถบแสดงสถานะ ของ Distribution Server (มุมขวาล่าง)",
+  "version": "2.1.7",
+  "title": "อัปเดต Biaocraft เวอร์ชัน 2.1.7",
+  "changelog": "• เพิ่มระบบ Auto-Download Java 17/21",
   "download_url": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/BiaocraftLauncher-win-x64.exe",
   "download_urls": {
     "win-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/BiaocraftLauncher-win-x64.exe",
@@ -10,5 +10,5 @@
     "osx-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/BiaocraftLauncher-osx-x64"
   },
   "mandatory": true,
-  "sha256": "093625a1b73d7bc0913ec94e59d73095d618b14799e7f28fae87cf03bda851fd"
+  "sha256": "b8b53e95a4734e9c01e69c365719c32c83fa068274d4ce61d376401cec2c323d"
 }

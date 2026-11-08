@@ -1,7 +1,7 @@
 {
-  "version": "2.1.6",
-  "title": "อัปเดต Operation เวอร์ชัน 2.1.6",
-  "changelog": "• ระบบมาใหม่",
+  "version": "2.1.7",
+  "title": "อัปเดต Operation เวอร์ชัน 2.1.7",
+  "changelog": "• เพิ่มระบบ Auto-Download Java 17/21",
   "download_url": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/OperationLauncher-win-x64.exe",
   "download_urls": {
     "win-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/OperationLauncher-win-x64.exe",
@@ -10,5 +10,5 @@
     "osx-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/OperationLauncher-osx-x64"
   },
   "mandatory": true,
-  "sha256": "379d4868bc4bf59ad0b6cf0bd755991442b64b110c6e91e73392c2eea60851c2"
+  "sha256": "48fdd3bd49d90b823456e0c8de0358475c26c1351d5cd3348b2e798399811a61"
 }

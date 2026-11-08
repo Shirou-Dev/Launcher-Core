@@ -1,0 +1,14 @@
+{
+  "version": "2.1.7",
+  "title": "อัปเดต Minefamily เวอร์ชัน 2.1.7",
+  "changelog": "• เพิ่มระบบ Auto-Download Java 17/21",
+  "download_url": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/MineFamilyLauncher-win-x64.exe",
+  "download_urls": {
+    "win-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/MineFamilyLauncher-win-x64.exe",
+    "linux-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/MineFamilyLauncher-linux-x64",
+    "osx-arm64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/MineFamilyLauncher-osx-arm64",
+    "osx-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/MineFamilyLauncher-osx-x64"
+  },
+  "mandatory": true,
+  "sha256": "9e15718ce8142a855f4984f5e3e064a91cf76853e104b6ad6ef00f6e6fd276a0"
+}

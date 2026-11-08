@@ -1,0 +1,14 @@
+{
+  "version": "2.1.7",
+  "title": "อัปเดต Parallel เวอร์ชัน 2.1.7",
+  "changelog": "• เพิ่มระบบ Auto-Download Java 17/21",
+  "download_url": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/ParallelLauncher-win-x64.exe",
+  "download_urls": {
+    "win-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/ParallelLauncher-win-x64.exe",
+    "linux-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/ParallelLauncher-linux-x64",
+    "osx-arm64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/ParallelLauncher-osx-arm64",
+    "osx-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/ParallelLauncher-osx-x64"
+  },
+  "mandatory": true,
+  "sha256": "750f306a3d4688fbacd8ab22398abc0ee1790c8225fb92eecb949538d8a63832"
+}

@@ -1,0 +1,14 @@
+{
+  "version": "2.1.7",
+  "title": "อัปเดต Above-Gods เวอร์ชัน 2.1.7",
+  "changelog": "• เพิ่มระบบ Auto-Download Java 17/21",
+  "download_url": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/Above-GodsLauncher-win-x64.exe",
+  "download_urls": {
+    "win-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/Above-GodsLauncher-win-x64.exe",
+    "linux-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/Above-GodsLauncher-linux-x64",
+    "osx-arm64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/Above-GodsLauncher-osx-arm64",
+    "osx-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/Above-GodsLauncher-osx-x64"
+  },
+  "mandatory": true,
+  "sha256": "dd4f2d9157711ce83a783467b00bca124f267d231a9d0e11e36b5be1f91041c0"
+}
