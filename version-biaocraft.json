@@ -1,7 +1,7 @@
 {
-  "version": "2.1.7",
-  "title": "อัปเดต Biaocraft เวอร์ชัน 2.1.7",
-  "changelog": "• เพิ่มระบบ Auto-Download Java 17/21",
+  "version": "2.1.8",
+  "title": "อัปเดต Biaocraft เวอร์ชัน 2.1.8",
+  "changelog": "• ปรับปรุงประสิทธิภาพ เเละ เเก้ไขบัค",
   "download_url": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/BiaocraftLauncher-win-x64.exe",
   "download_urls": {
     "win-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/BiaocraftLauncher-win-x64.exe",
@@ -10,5 +10,5 @@
     "osx-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/BiaocraftLauncher-osx-x64"
   },
   "mandatory": true,
-  "sha256": "b8b53e95a4734e9c01e69c365719c32c83fa068274d4ce61d376401cec2c323d"
+  "sha256": "d1cfa0edc79996d02c0cdaf154828e86367c265ce4fa37445ad601e5131f545e"
 }

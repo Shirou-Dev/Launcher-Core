@@ -1,7 +1,7 @@
 {
-  "version": "2.1.7",
-  "title": "อัปเดต Axia เวอร์ชัน 2.1.7",
-  "changelog": "• เพิ่มระบบ Auto-Download Java 17/21",
+  "version": "2.1.8",
+  "title": "อัปเดต Axia เวอร์ชัน 2.1.8",
+  "changelog": "• ปรับปรุงประสิทธิภาพ เเละ เเก้ไขบัค",
   "download_url": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/AxiaLauncher-win-x64.exe",
   "download_urls": {
     "win-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/AxiaLauncher-win-x64.exe",
@@ -10,5 +10,5 @@
     "osx-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/AxiaLauncher-osx-x64"
   },
   "mandatory": true,
-  "sha256": "70f8e64e545407212174acdeb27792fe3824f5b066f3afcee2823f0eb36df4ff"
+  "sha256": "9bc45b715f347eb93b9042b1a32d5043f8869d6133c8f378a6ecc5371b59bc59"
 }

@@ -1,7 +1,7 @@
 {
-  "version": "2.1.7",
-  "title": "อัปเดต NYX เวอร์ชัน 2.1.7",
-  "changelog": "• เพิ่มระบบ Auto-Download Java 17/21",
+  "version": "2.1.8",
+  "title": "อัปเดต NYX เวอร์ชัน 2.1.8",
+  "changelog": "• ปรับปรุงประสิทธิภาพ เเละ เเก้ไขบัค",
   "download_url": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/NYXLauncher-win-x64.exe",
   "download_urls": {
     "win-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/NYXLauncher-win-x64.exe",
@@ -10,5 +10,5 @@
     "osx-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/NYXLauncher-osx-x64"
   },
   "mandatory": true,
-  "sha256": "4c7172e5512bdd3b6ab051a97e5f5c809ad8636afa78951da3c4c2a1157a2b4f"
+  "sha256": "17d75ba4a458da044f28ec69338a920122f6e32ef879bbf78a956a9d9e80f5d3"
 }
