@@ -1,6 +1,6 @@
 {
-  "version": "2.1.8",
-  "title": "อัปเดต Operation เวอร์ชัน 2.1.8",
+  "version": "2.1.9",
+  "title": "อัปเดต Operation เวอร์ชัน 2.1.9",
   "changelog": "• ปรับปรุงประสิทธิภาพ เเละ เเก้ไขบัค",
   "download_url": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/OperationLauncher-win-x64.exe",
   "download_urls": {
@@ -10,5 +10,5 @@
     "osx-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/OperationLauncher-osx-x64"
   },
   "mandatory": true,
-  "sha256": "226816c9ef53f52d8da6d5e3434a9104173f0a17b2c44f5d2238d5e5aaf83844"
+  "sha256": "8c31855a8a1b6627d75bbe0f4cd0f479dc988bed14f872b61f9537d604729d23"
 }

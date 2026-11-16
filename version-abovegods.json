@@ -1,6 +1,6 @@
 {
-  "version": "2.1.8",
-  "title": "อัปเดต Above-Gods เวอร์ชัน 2.1.8",
+  "version": "2.1.9",
+  "title": "อัปเดต Above-Gods เวอร์ชัน 2.1.9",
   "changelog": "• ปรับปรุงประสิทธิภาพ เเละ เเก้ไขบัค",
   "download_url": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/Above-GodsLauncher-win-x64.exe",
   "download_urls": {
@@ -10,5 +10,5 @@
     "osx-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/Above-GodsLauncher-osx-x64"
   },
   "mandatory": true,
-  "sha256": "37c83602e85d9096c8b9c8c10cf5fa563351d3a8899279c6e17fdcccc4d94100"
+  "sha256": "cd684a8eb3e49502d46d5b4fac15966444293d6924533741a903f60d53bbb44c"
 }

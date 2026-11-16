@@ -1,6 +1,6 @@
 {
-  "version": "2.1.8",
-  "title": "อัปเดต Minefamily เวอร์ชัน 2.1.8",
+  "version": "2.1.9",
+  "title": "อัปเดต Minefamily เวอร์ชัน 2.1.9",
   "changelog": "• ปรับปรุงประสิทธิภาพ เเละ เเก้ไขบัค",
   "download_url": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/MineFamilyLauncher-win-x64.exe",
   "download_urls": {
@@ -10,5 +10,5 @@
     "osx-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/MineFamilyLauncher-osx-x64"
   },
   "mandatory": true,
-  "sha256": "da17f021d3e87167e437f08d6952e21f4ce0120b93dbb9dc39f2d73684e4b89d"
+  "sha256": "b083cc543529c9f3ea829ec4bb6aeb742ed5014be0d9370d6008cb6d30ae1818"
 }

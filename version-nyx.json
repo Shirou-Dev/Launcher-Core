@@ -1,6 +1,6 @@
 {
-  "version": "2.1.8",
-  "title": "อัปเดต NYX เวอร์ชัน 2.1.8",
+  "version": "2.1.9",
+  "title": "อัปเดต NYX เวอร์ชัน 2.1.9",
   "changelog": "• ปรับปรุงประสิทธิภาพ เเละ เเก้ไขบัค",
   "download_url": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/NYXLauncher-win-x64.exe",
   "download_urls": {
@@ -10,5 +10,5 @@
     "osx-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/NYXLauncher-osx-x64"
   },
   "mandatory": true,
-  "sha256": "17d75ba4a458da044f28ec69338a920122f6e32ef879bbf78a956a9d9e80f5d3"
+  "sha256": "4ada3c72a12005d1315ad46343e52ed5a8475b569de17591dc2ebead873164e3"
 }
