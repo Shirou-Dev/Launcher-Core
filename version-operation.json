@@ -1,0 +1,20 @@
+{
+  "version": "2.2.0",
+  "title": "อัปเดต Operation เวอร์ชัน 2.2.0",
+  "changelog": "• แก้ไข RAM ที่ตั้งไว้ไม่ถูกใช้จริง • เพิ่ม RAM Safety (ไม่เกิน 88%) พร้อมปุ่มใช้ค่าที่ปลอดภัย • ปรับการวัด Ping ให้แม่นยำขึ้น • ตรวจสอบ Java ด้วย SHA-256 • โปรไฟล์เชเดอร์ใช้ได้จริง (Iris/Oculus) • แก้ไขระบบอัปเดต SHA-256 แยกตามแพลตฟอร์ม",
+  "download_url": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/OperationLauncher-win-x64.exe",
+  "download_urls": {
+    "win-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/OperationLauncher-win-x64.exe",
+    "linux-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/OperationLauncher-linux-x64",
+    "osx-arm64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/OperationLauncher-osx-arm64",
+    "osx-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/OperationLauncher-osx-x64"
+  },
+  "mandatory": true,
+  "sha256": "1a6760e418bf52b57c3753a2c66aedfe4f845df3316c344c6dcbd3fb324b513c",
+  "sha256s": {
+    "win-x64": "1a6760e418bf52b57c3753a2c66aedfe4f845df3316c344c6dcbd3fb324b513c",
+    "linux-x64": "ad45584f9c70b3e71ac2c99728f2a4efb0881afe6c3b6e39a8b157128d617f39",
+    "osx-arm64": "ed26f754f5e68fa2a7995aada107ecbcac5b7ec55df3769783a20872a6205881",
+    "osx-x64": "d90041ee0b179b14c5291a9fcdd7ab70f9fbd5dfaa50f3887bc5ee27cb01463e"
+  }
+}
