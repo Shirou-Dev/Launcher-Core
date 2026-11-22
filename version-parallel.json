@@ -1,0 +1,20 @@
+{
+  "version": "2.2.0",
+  "title": "อัปเดต Parallel เวอร์ชัน 2.2.0",
+  "changelog": "• แก้ไข RAM ที่ตั้งไว้ไม่ถูกใช้จริง • เพิ่ม RAM Safety (ไม่เกิน 88%) พร้อมปุ่มใช้ค่าที่ปลอดภัย • ปรับการวัด Ping ให้แม่นยำขึ้น • ตรวจสอบ Java ด้วย SHA-256 • โปรไฟล์เชเดอร์ใช้ได้จริง (Iris/Oculus) • แก้ไขระบบอัปเดต SHA-256 แยกตามแพลตฟอร์ม",
+  "download_url": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/ParallelLauncher-win-x64.exe",
+  "download_urls": {
+    "win-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/ParallelLauncher-win-x64.exe",
+    "linux-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/ParallelLauncher-linux-x64",
+    "osx-arm64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/ParallelLauncher-osx-arm64",
+    "osx-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/ParallelLauncher-osx-x64"
+  },
+  "mandatory": true,
+  "sha256": "b97a8466abd709f3133eae8d3820e3548a455edb7b3450b80fe28b06ae05ec0e",
+  "sha256s": {
+    "win-x64": "b97a8466abd709f3133eae8d3820e3548a455edb7b3450b80fe28b06ae05ec0e",
+    "linux-x64": "c03ef2af0b38054cd3e3f5cc8d18655a25cd551d5f4edba1873ab979fd2039ad",
+    "osx-arm64": "4baf67e0591e155bb73d483951ac6c7130ebbd44db045611f171b1ccf62fe4e8",
+    "osx-x64": "1eb8c161b33cb99b4543941bc6a86191fd87dfefa0dd2bfb6b13b6aef11a6e15"
+  }
+}
