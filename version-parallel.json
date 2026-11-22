@@ -1,6 +1,6 @@
 {
-  "version": "2.1.9",
-  "title": "อัปเดต Parallel เวอร์ชัน 2.1.9",
+  "version": "2.2.0",
+  "title": "อัปเดต Parallel เวอร์ชัน 2.2.0",
   "changelog": "• ปรับปรุงประสิทธิภาพ เเละ เเก้ไขบัค",
   "download_url": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/ParallelLauncher-win-x64.exe",
   "download_urls": {
@@ -10,5 +10,5 @@
     "osx-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/ParallelLauncher-osx-x64"
   },
   "mandatory": true,
-  "sha256": "e0dd695450869444da3af5ce2b1a52d01ad1f1238c77771796eaf8da0daa90e1"
+  "sha256": "e1ea1317ba5042c5d6660bb195d2b2563a225c8b17ed32b82b09ff34379ea85e"
 }

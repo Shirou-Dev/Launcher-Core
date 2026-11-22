@@ -1,6 +1,6 @@
 {
-  "version": "2.1.9",
-  "title": "อัปเดต Axia เวอร์ชัน 2.1.9",
+  "version": "2.2.0",
+  "title": "อัปเดต Axia เวอร์ชัน 2.2.0",
   "changelog": "• ปรับปรุงประสิทธิภาพ เเละ เเก้ไขบัค",
   "download_url": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/AxiaLauncher-win-x64.exe",
   "download_urls": {
@@ -10,5 +10,5 @@
     "osx-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/AxiaLauncher-osx-x64"
   },
   "mandatory": true,
-  "sha256": "3aa4ba9a0987b854f7fd916dd3aa21649bb6ad84c2be072ca8140a3cd68dbd85"
+  "sha256": "de864ac33f8d697b461c46dfdbffa0dfdc83b7cc8b43a0d5214f9f2f86dddf6b"
 }

@@ -1,6 +1,6 @@
 {
-  "version": "2.1.9",
-  "title": "อัปเดต Biaocraft เวอร์ชัน 2.1.9",
+  "version": "2.2.0",
+  "title": "อัปเดต Biaocraft เวอร์ชัน 2.2.0",
   "changelog": "• ปรับปรุงประสิทธิภาพ เเละ เเก้ไขบัค",
   "download_url": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/BiaocraftLauncher-win-x64.exe",
   "download_urls": {
@@ -10,5 +10,5 @@
     "osx-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/BiaocraftLauncher-osx-x64"
   },
   "mandatory": true,
-  "sha256": "720e1347532b37ccb42f779084168e7a9adee986ffa723337664031f28afe854"
+  "sha256": "19d474987fe22f28268ab379154ff68fa3fc057acb583156b9e25af48fa0f80c"
 }
