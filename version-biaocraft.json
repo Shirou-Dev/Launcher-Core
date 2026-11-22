@@ -1,0 +1,20 @@
+{
+  "version": "2.2.0",
+  "title": "อัปเดต Biaocraft เวอร์ชัน 2.2.0",
+  "changelog": "• แก้ไข RAM ที่ตั้งไว้ไม่ถูกใช้จริง • เพิ่ม RAM Safety (ไม่เกิน 88%) พร้อมปุ่มใช้ค่าที่ปลอดภัย • ปรับการวัด Ping ให้แม่นยำขึ้น • ตรวจสอบ Java ด้วย SHA-256 • โปรไฟล์เชเดอร์ใช้ได้จริง (Iris/Oculus) • แก้ไขระบบอัปเดต SHA-256 แยกตามแพลตฟอร์ม",
+  "download_url": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/BiaocraftLauncher-win-x64.exe",
+  "download_urls": {
+    "win-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/BiaocraftLauncher-win-x64.exe",
+    "linux-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/BiaocraftLauncher-linux-x64",
+    "osx-arm64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/BiaocraftLauncher-osx-arm64",
+    "osx-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/BiaocraftLauncher-osx-x64"
+  },
+  "mandatory": true,
+  "sha256": "682333dc9fbc789b5c9cbf737c50f7a68eac99f3c59d54a2f088d4b58bb2320a",
+  "sha256s": {
+    "win-x64": "682333dc9fbc789b5c9cbf737c50f7a68eac99f3c59d54a2f088d4b58bb2320a",
+    "linux-x64": "4e2103a29e2503060487e28d0eba1f730928b3de659205fc2ec75db8e4de8f6d",
+    "osx-arm64": "9a97cd84fa7965a39da4b1b486d2d706b071e761bb9d4007e53c2ce99753e462",
+    "osx-x64": "65a0564a0404e617a81f6aea78308057116839faf8b1be66ce77b2d160872288"
+  }
+}
