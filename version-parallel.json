@@ -1,7 +1,7 @@
 {
-  "version": "2.2.0",
-  "title": "อัปเดต Parallel เวอร์ชัน 2.2.0",
-  "changelog": "• แก้ไข RAM ที่ตั้งไว้ไม่ถูกใช้จริง • เพิ่ม RAM Safety (ไม่เกิน 88%) พร้อมปุ่มใช้ค่าที่ปลอดภัย • ปรับการวัด Ping ให้แม่นยำขึ้น • ตรวจสอบ Java ด้วย SHA-256 • โปรไฟล์เชเดอร์ใช้ได้จริง (Iris/Oculus) • แก้ไขระบบอัปเดต SHA-256 แยกตามแพลตฟอร์ม",
+  "version": "2.2.1",
+  "title": "อัปเดต Parallel เวอร์ชัน 2.2.1",
+  "changelog": "• คืนหน้าโหลด Forge บน Windows/macOS (แก้ปัญหาเฉพาะ Linux) • Linux ย้ายข้อมูลเกมไป ~/.local/share และ cache ไป ~/.cache อัตโนมัติ • แก้บั๊ก config หายในเครื่องที่ยังไม่มีโฟลเดอร์ ~/.config • ปรับปรุงความเสถียร",
   "download_url": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/ParallelLauncher-win-x64.exe",
   "download_urls": {
     "win-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/ParallelLauncher-win-x64.exe",
@@ -10,11 +10,11 @@
     "osx-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/ParallelLauncher-osx-x64"
   },
   "mandatory": true,
-  "sha256": "b97a8466abd709f3133eae8d3820e3548a455edb7b3450b80fe28b06ae05ec0e",
+  "sha256": "535e58671aed374625a92b5a15b2d58ec839dc15290ea728fe02923b3b87abd9",
   "sha256s": {
-    "win-x64": "b97a8466abd709f3133eae8d3820e3548a455edb7b3450b80fe28b06ae05ec0e",
-    "linux-x64": "0634afbdf5a749a2e5ee7076e077a0620d35ff8cd5afeaa545ede2852d499537",
-    "osx-arm64": "4baf67e0591e155bb73d483951ac6c7130ebbd44db045611f171b1ccf62fe4e8",
-    "osx-x64": "1eb8c161b33cb99b4543941bc6a86191fd87dfefa0dd2bfb6b13b6aef11a6e15"
+    "win-x64": "535e58671aed374625a92b5a15b2d58ec839dc15290ea728fe02923b3b87abd9",
+    "linux-x64": "9f59717a74d3437bfeb94e68378ae58a0a20b9cee90e91774fb5808f889ba9a6",
+    "osx-arm64": "a6e351a1c6b0292b734da1b25a5c5a29186d92d032890b75046da0b8012696d8",
+    "osx-x64": "a6d60ca5d82686de212825b0635e2771d557b496063c997486b3a99b0587f27d"
   }
 }
