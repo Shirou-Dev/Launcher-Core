@@ -1,7 +1,7 @@
 {
-  "version": "2.2.0",
-  "title": "อัปเดต Axia เวอร์ชัน 2.2.0",
-  "changelog": "• แก้ไข RAM ที่ตั้งไว้ไม่ถูกใช้จริง • เพิ่ม RAM Safety (ไม่เกิน 88%) พร้อมปุ่มใช้ค่าที่ปลอดภัย • ปรับการวัด Ping ให้แม่นยำขึ้น • ตรวจสอบ Java ด้วย SHA-256 • โปรไฟล์เชเดอร์ใช้ได้จริง (Iris/Oculus) • แก้ไขระบบอัปเดต SHA-256 แยกตามแพลตฟอร์ม",
+  "version": "2.2.1",
+  "title": "อัปเดต Axia เวอร์ชัน 2.2.1",
+  "changelog": "• คืนหน้าโหลด Forge บน Windows/macOS (แก้ปัญหาเฉพาะ Linux) • Linux ย้ายข้อมูลเกมไป ~/.local/share และ cache ไป ~/.cache อัตโนมัติ • แก้บั๊ก config หายในเครื่องที่ยังไม่มีโฟลเดอร์ ~/.config • ปรับปรุงความเสถียร",
   "download_url": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/AxiaLauncher-win-x64.exe",
   "download_urls": {
     "win-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/AxiaLauncher-win-x64.exe",
@@ -10,11 +10,11 @@
     "osx-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/AxiaLauncher-osx-x64"
   },
   "mandatory": true,
-  "sha256": "971f7e7b5b6fd92eba1a17fa26e955f9172f3a6e9ebe4182d32e30a96e233f8b",
+  "sha256": "eab8bf1f52e72051e8ad3535ad87be6458da8638937de3f368d226fbbc7758b8",
   "sha256s": {
-    "win-x64": "971f7e7b5b6fd92eba1a17fa26e955f9172f3a6e9ebe4182d32e30a96e233f8b",
-    "linux-x64": "167c2ac08a6526f9bf0e2f9323a7c61301b03a3f1a9be08c4f594aacdfb3bfa1",
-    "osx-arm64": "02d6591115b225dcbdee68528ef8d8c67f6af183b5155115a196090e9dee3ca6",
-    "osx-x64": "9c922aff2c899e4b7806cb342f1208d127b4e77a38b611e2eb395715c9246192"
+    "win-x64": "eab8bf1f52e72051e8ad3535ad87be6458da8638937de3f368d226fbbc7758b8",
+    "linux-x64": "dde6857865daba3e4672099bf4efe696687cd0ad5c0ada27ebf670f109ecae40",
+    "osx-arm64": "703e8c18cb95dc427bec779cb71b157e7ba0f6e8fa216aefefebb6fd929860c1",
+    "osx-x64": "30f1a0fafdb0ed2821ed7c1d43d9d34913ae1ec20c7d38ee6cdef80f04a107ff"
   }
 }
