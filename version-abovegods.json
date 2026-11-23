@@ -1,7 +1,7 @@
 {
-  "version": "2.2.0",
-  "title": "อัปเดต Above-Gods เวอร์ชัน 2.2.0",
-  "changelog": "• แก้ไข RAM ที่ตั้งไว้ไม่ถูกใช้จริง • เพิ่ม RAM Safety (ไม่เกิน 88%) พร้อมปุ่มใช้ค่าที่ปลอดภัย • ปรับการวัด Ping ให้แม่นยำขึ้น • ตรวจสอบ Java ด้วย SHA-256 • โปรไฟล์เชเดอร์ใช้ได้จริง (Iris/Oculus) • แก้ไขระบบอัปเดต SHA-256 แยกตามแพลตฟอร์ม",
+  "version": "2.2.1",
+  "title": "อัปเดต Above-Gods เวอร์ชัน 2.2.1",
+  "changelog": "• คืนหน้าโหลด Forge บน Windows/macOS (แก้ปัญหาเฉพาะ Linux) • Linux ย้ายข้อมูลเกมไป ~/.local/share และ cache ไป ~/.cache อัตโนมัติ • แก้บั๊ก config หายในเครื่องที่ยังไม่มีโฟลเดอร์ ~/.config • ปรับปรุงความเสถียร",
   "download_url": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/Above-GodsLauncher-win-x64.exe",
   "download_urls": {
     "win-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/Above-GodsLauncher-win-x64.exe",
@@ -10,11 +10,11 @@
     "osx-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/Above-GodsLauncher-osx-x64"
   },
   "mandatory": true,
-  "sha256": "835dd2ed7cc4f304d3e93f2ac88fffac94c16c223bea70801e7b064258be7cbe",
+  "sha256": "43deaa329f44ccbe2e1c1303cc160b6256ee2bf2c4786876899feab0c6cf6c60",
   "sha256s": {
-    "win-x64": "835dd2ed7cc4f304d3e93f2ac88fffac94c16c223bea70801e7b064258be7cbe",
-    "linux-x64": "5cc94c4e0c17edcb284c67cdf29738a2497e9f8ad022dcc5384d54161885d508",
-    "osx-arm64": "ad72bb91b0c08297a6f06ab8bcd767b134371d9573b6ab5daca8579fa7d18c9d",
-    "osx-x64": "428b0eca8e6d2c073580d7fc25f83fceb13214f775da9d46350d9b44925d4c7e"
+    "win-x64": "43deaa329f44ccbe2e1c1303cc160b6256ee2bf2c4786876899feab0c6cf6c60",
+    "linux-x64": "962417b97ce5722ea04e4dff8a7e4b7f836385bfcbc732d78b313558f99d5830",
+    "osx-arm64": "1c08e81984b6d8319840bc3e4df8ad56be5d2711c6605a55c0e92cefa02a7b03",
+    "osx-x64": "0d158b33b5a1eb80f62ff4d6812a17abc5e0e7ffa035fa3ce7d944e9ab44fbf1"
   }
 }
