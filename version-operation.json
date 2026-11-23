@@ -1,7 +1,7 @@
 {
-  "version": "2.2.0",
-  "title": "อัปเดต Operation เวอร์ชัน 2.2.0",
-  "changelog": "• แก้ไข RAM ที่ตั้งไว้ไม่ถูกใช้จริง • เพิ่ม RAM Safety (ไม่เกิน 88%) พร้อมปุ่มใช้ค่าที่ปลอดภัย • ปรับการวัด Ping ให้แม่นยำขึ้น • ตรวจสอบ Java ด้วย SHA-256 • โปรไฟล์เชเดอร์ใช้ได้จริง (Iris/Oculus) • แก้ไขระบบอัปเดต SHA-256 แยกตามแพลตฟอร์ม",
+  "version": "2.2.1",
+  "title": "อัปเดต Operation เวอร์ชัน 2.2.1",
+  "changelog": "• คืนหน้าโหลด Forge บน Windows/macOS (แก้ปัญหาเฉพาะ Linux) • Linux ย้ายข้อมูลเกมไป ~/.local/share และ cache ไป ~/.cache อัตโนมัติ • แก้บั๊ก config หายในเครื่องที่ยังไม่มีโฟลเดอร์ ~/.config • ปรับปรุงความเสถียร",
   "download_url": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/OperationLauncher-win-x64.exe",
   "download_urls": {
     "win-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/OperationLauncher-win-x64.exe",
@@ -10,11 +10,11 @@
     "osx-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/OperationLauncher-osx-x64"
   },
   "mandatory": true,
-  "sha256": "1a6760e418bf52b57c3753a2c66aedfe4f845df3316c344c6dcbd3fb324b513c",
+  "sha256": "e0c41be864b5a0eb7a8885a912fc1641e7166713ba4dab73ed9e3373288515cf",
   "sha256s": {
-    "win-x64": "1a6760e418bf52b57c3753a2c66aedfe4f845df3316c344c6dcbd3fb324b513c",
-    "linux-x64": "ddc41e2239c95152d266a9f294ed3d4ff5b9746804776c566beed123cc1fe447",
-    "osx-arm64": "ed26f754f5e68fa2a7995aada107ecbcac5b7ec55df3769783a20872a6205881",
-    "osx-x64": "d90041ee0b179b14c5291a9fcdd7ab70f9fbd5dfaa50f3887bc5ee27cb01463e"
+    "win-x64": "e0c41be864b5a0eb7a8885a912fc1641e7166713ba4dab73ed9e3373288515cf",
+    "linux-x64": "4bf38969753877b6559104c0b3f3234b88695ca8e59b8b27fd07aff7221d7503",
+    "osx-arm64": "ad7b8f6445d011d573a911c712b60ef25fff5d387c344bb02d6558b969fbc4b7",
+    "osx-x64": "2fde9955984cb278ad92af9b677318a5d6d52e51cb39ba1298d7f05c735b6889"
   }
 }
