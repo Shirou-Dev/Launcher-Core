@@ -1,7 +1,7 @@
 {
-  "version": "2.2.0",
-  "title": "อัปเดต Minefamily เวอร์ชัน 2.2.0",
-  "changelog": "• แก้ไข RAM ที่ตั้งไว้ไม่ถูกใช้จริง • เพิ่ม RAM Safety (ไม่เกิน 88%) พร้อมปุ่มใช้ค่าที่ปลอดภัย • ปรับการวัด Ping ให้แม่นยำขึ้น • ตรวจสอบ Java ด้วย SHA-256 • โปรไฟล์เชเดอร์ใช้ได้จริง (Iris/Oculus) • แก้ไขระบบอัปเดต SHA-256 แยกตามแพลตฟอร์ม",
+  "version": "2.2.1",
+  "title": "อัปเดต Minefamily เวอร์ชัน 2.2.1",
+  "changelog": "• คืนหน้าโหลด Forge บน Windows/macOS (แก้ปัญหาเฉพาะ Linux) • Linux ย้ายข้อมูลเกมไป ~/.local/share และ cache ไป ~/.cache อัตโนมัติ • แก้บั๊ก config หายในเครื่องที่ยังไม่มีโฟลเดอร์ ~/.config • ปรับปรุงความเสถียร",
   "download_url": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/MineFamilyLauncher-win-x64.exe",
   "download_urls": {
     "win-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/MineFamilyLauncher-win-x64.exe",
@@ -10,11 +10,11 @@
     "osx-x64": "https://github.com/Shirou-Dev/Launcher-Core/releases/latest/download/MineFamilyLauncher-osx-x64"
   },
   "mandatory": true,
-  "sha256": "b94b199c3c9fcaaa896c335fcd9e53c35ec0b6377c0b4163018f3858fcf6a973",
+  "sha256": "84fb8217779c54cc48ada527aa43dccde8594049fed3b34e9d0fa22e08fc2a8f",
   "sha256s": {
-    "win-x64": "b94b199c3c9fcaaa896c335fcd9e53c35ec0b6377c0b4163018f3858fcf6a973",
-    "linux-x64": "3e504528b88391cee981f6c51772eced4ab11c0242d80e203c896759bcaba36a",
-    "osx-arm64": "600bea1450186ced4d6127019d68ed1a63b1eef8e118ee352acfd606e5a54e86",
-    "osx-x64": "b9fafaa55b6c3a801bd5590c065b767eb4ad612db65163c2cc3bf08dd3f9b93c"
+    "win-x64": "84fb8217779c54cc48ada527aa43dccde8594049fed3b34e9d0fa22e08fc2a8f",
+    "linux-x64": "dd8f648d7b25c36b449fde4acccd408a117fa82d84756ed433d7beafdfaf34e4",
+    "osx-arm64": "39c7bcdfa5630a8bf65e667dc8283117b27a5d86f77b949abfbfa88a020f299e",
+    "osx-x64": "ee4285df7e67234d9113418a0748e89ed983a09fb87d3cd45693f4aaccec4dad"
   }
 }
